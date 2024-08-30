@@ -24,9 +24,9 @@ int main()
   int number1;
   int number2; 
   int answer;
-  cout<<"Please end a number\n";
+  cout<<"Please end a number\endl";
   cin>>number1;
-  cout<<"Please enter a second number\n";
+  cout<<"Please enter a second number\endl";
   cin>> number2;
   answer = number1 + number2;
   cout<< "the sum of" << number1 << "and" << number2 << "is" << answer;
